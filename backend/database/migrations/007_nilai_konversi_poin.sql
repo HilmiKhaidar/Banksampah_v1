@@ -1,0 +1,2 @@
+-- Migrasi historis.
+-- Versi aktif menggunakan saldo rupiah langsung dan tidak menggunakan konversi poin.
